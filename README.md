@@ -1,7 +1,7 @@
 <center> <h1>0x00. AirBnB clone - The console</h1> </center>
 ------------------------------------
 # Date: 12/02/2023
-# Auth: Kefuoe Sole
+# Auth: Ogochukwu Emeh
 ----------------------------------------
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. 
 This stage implements a backend interface, or console, to manage program data. 
